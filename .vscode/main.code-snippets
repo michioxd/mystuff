@@ -11,6 +11,20 @@
 		],
 	},
 
+	"Main program with file": {
+		"scope": "cpp",
+		"prefix": ["cppf", "maincppf"],
+		"description": "Main program struction with file",
+		"body": [
+			"#include<iostream>\n#include<cstring>\n#include<fstream>\n\nusing namespace std;\n\nint main() {",
+			"    freopen(\"${2:inputFile}.inp\", \"r\", stdin);",
+			"    freopen(\"${3:outputFile}.out\", \"w\", stdout);",
+			"    $4",
+			"    return 0;",
+			"}"
+		],
+	},
+
 	"Procedure": {
 		"scope": "cpp",
 		"prefix": ["void", "voidcpp"],
