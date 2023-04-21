@@ -1,0 +1,35 @@
+{
+	"Main program": {
+		"scope": "cpp",
+		"prefix": ["cpp", "maincpp"],
+		"description": "Main program struction",
+		"body": [
+			"#include<iostream>\n#include<cstring>\n\nusing namespace std;\n\nint main() {",
+			"    $2",
+			"    return 0;",
+			"}"
+		],
+	},
+
+	"Procedure": {
+		"scope": "cpp",
+		"prefix": ["void", "voidcpp"],
+		"description": "Procedure function (void)",
+		"body": [
+			"void ${1:nameFunction}($2) {",
+			"    $3",
+			"}\n"
+		],
+	},
+
+	"Function with type": {
+		"scope": "cpp",
+		"prefix": ["function", "functioncpp"],
+		"description": "Function with type",
+		"body": [
+			"${1:int} ${2:nameFunction}($3) {",
+			"    $4",
+			"}\n"
+		],
+	}
+}
