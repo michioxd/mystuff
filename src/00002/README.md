@@ -15,8 +15,7 @@ _Ví dụ:_
 
 | **Xanhdep.Inp** | **Xanhdep.Out** | **Giải thích** |
 | --- | --- | --- |
-| 3<br />ABBBABAAH<br />HHHHHAHHHA<br />EEAE
- | 5 | Đoạn đường xanh đẹp gồm nhiều cây nhất là 5 cây (HHHHH) trong con đường thứ 2. |
+| 3<br />ABBBABAAH<br />HHHHHAHHHA<br />EEAE| `5` | Đoạn đường xanh đẹp gồm nhiều cây nhất là 5 cây (HHHHH) trong con đường thứ 2. |
 
 **Giới hạn:**
 
