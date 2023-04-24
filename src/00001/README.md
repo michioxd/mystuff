@@ -1,4 +1,4 @@
-**Tính tổng các ước**
+# Tính tổng các ước
 
 Cho hai số nguyên dương và . Tính tổng tất cả các số nguyên dương thỏa mãn:
 
