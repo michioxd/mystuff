@@ -12,7 +12,7 @@ int main()
     int a, b, total = 0;
     cin >> a >> b;
 
-    for (int i = 1; i <= (a > 3 * b ? a : b); i++)
+    for (int i = 1; i <= (a > 3 * b ? a : b * 3); i++)
     {
         if (a % i == 0 && 3 * b % i == 0)
         {
