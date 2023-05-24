@@ -8,7 +8,7 @@ Thuật toán tìm dãy con có tổng số lớn nhất
 
 ## Cách làm
 
-1. Ta lấy tổng trước (`sum`) cộng với phân tử `i` của mảng (`sum + array[i]`), sau đó so sánh với phân tử `i` đẩy.
+1. Ta lấy tổng trước (`sum`) cộng với phân tử `i` của mảng (`sum + array[i]`), sau đó so sánh với phân tử `i` đấy.
     - Nếu tổng trên bé hơn phân tử `i` thì ta gắn cho nó tổng bằng phân tử `i` đấy (`sum = array[i]`) và gắn giá trị vị trí bắt đầu là `i`
     - Nếu tổng trến lớn hơn phân tử `i` thì ta cộng vào phân tử `i` vào `sum`
 
@@ -25,7 +25,7 @@ using namespace std;
 
 int main()
 {
-    int n = 0, x = 1, y = 1, sum = 0, crr = 0, best = INT_MIN;
+    int n = 0, start = 1, end = 1, sum = 0, current = 0, best = INT_MIN;
     cin >> n;
 
     for (int i = 1; i <= n; i++)
@@ -34,7 +34,7 @@ int main()
         cin >> a;
         if (sum + a < a)
         {
-            crr = i;
+            current = i;
             sum = a;
         }
         else
@@ -45,8 +45,8 @@ int main()
         if (best < sum)
         {
             best = sum;
-            x = crr;
-            y = i;
+            start = current;
+            end = i;
         }
     }
 
@@ -57,3 +57,7 @@ int main()
     return 0;
 }
 ```
+
+| Đầu vào                    | Kết quả |
+|----------------------------|---------|
+| 8 12 -14 1 23 -6 22 -34 13 | 3 6 40  |
