@@ -1,0 +1,38 @@
+Slide bài giảng: https://drive.google.com/file/d/12sP4PoSjin2extH7aOaiDfD6_kD48FES/view
+Giáo trình tham khảo thêm: https://drive.google.com/file/d/1oU7og15E1AphWXGXbWL4-Gg6ir2vj1Po/view
+Tham khảo: https:// sites. google.com/site/votandungsg/ ctdl-khóa-8/ tài-liệu
+Các slide tham khảo thêm: 
+http://www.mediafire.com/?yjagzznwjte
+http://www.mediafire.com/?zgzmytzmqnw
+http://www.mediafire.com/?mmzagzgzzmy
+http://www.mediafire.com/?1yndzztdjjd
+http://www.mediafire.com/?jlydm3fv54k
+http://www.mediafire.com/?wym4ljj32tt
+https://drive.google.com/file/d/1cfSM99RKi4QUpSwP9r01D5RXdcnr2yDr/view
+https://drive.google.com/file/d/1k4k_P81hjuzi1sftn0R4ihD0ZyuwrIP6/view
+
+Bài giảng và code mẫu Stack and Queue: 
+https://drive.google.com/drive/folders/1CAoIfh9L2ekLJk6VTRvycefdr89QdYXO?usp=sharing
+Code mẫu bài DSLK và Cây nhị phân tìm kiếm: 
+https://drive.google.com/drive/folders/1dSmkq6ooj-6gKhpfNPlybPc5B4MUTzGC?usp=sharing
+Code bài độ dài đường đi (BT cây), ở cuối trang này (copy paste link chứ đừng nhấp vào) 
+https://sites.google.com/site/votandungsg/ctdl-khóa-8/tài-liệu
+Toàn bộ code bài tập Tree mà thầy giải tại lớp:
+https://drive.google.com/file/d/1hAbKEkt844i33Nt0kJP-oBe4XDUzG2SR/view?usp=sharing
+
+Bài tập DSLK đơn:
+http://vncoding.net/2016/02/14/biẻu-diẽn-da-thuc-bang-danh-sach-lien-ket/
+
+ https://drive.google.com/drive/folders/1dSmkq6ooj-6gKhpfNPlybPc5B4MUTzGC?usp=sharing
+Xem thôi, chứ ko ổn nha! https://www.stdio.vn/giai-thuat-lap-trinh/ung-dung-stack-bieu-thuc-tien-to-prefix-hspu1
+Hướng dẫn giải bài: chuyển biểu thức từ dạng trung tố (infix) sang dạng hậu tố (postfix):
+https://www.youtube.com/watch?v=PAceaOSnxQs
+Hướng dẫn giải bài tập tìm đường đi ngắn nhất:
+1) Bằng thuật toán Dijkstra và thuật toán Floyd: 
+https://www.youtube.com/watch?v=SpzZMd9gwgM
+2) Bằng thuật toán Bellman - Ford: 
+https://www.youtube.com/watch?v=0JvoOP5fvUo
+
+Cách trình bày bài làm thuật toán Kruskal và Prim
+(nhớ gạch đậm những cạnh vừa mới đưa vào cây khung nhỏ nhất)
+Đề kiểm tra giữa kỳ: https://drive.google.com/file/d/1nbPW94p9Wd_RiyH-R8CY9fTgxmBSwabY/view?usp=sharing
