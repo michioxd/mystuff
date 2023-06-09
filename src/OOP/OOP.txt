@@ -1,0 +1,51 @@
+OOP
+Code mẫu trên lớp
+https://drive.google.com/drive/folders/1z0oFZMMu_khQtvDvS4gEOmGGEA8TgnRY?usp=sharing
+bai tap:
+Phân tích phân cấp thừa kế cho các lớp:
+Hàng điện máy <mã hàng, tên hàng, nhà sản xuất, giá, thời gian bảo hành, điện áp, công suất>
+   + Phương thức: Nhập, Xuất, tính giá bán
+Hàng sành sứ < mã hàng, tên hàng, nhà sản xuất, giá, loại nguyên liệu>
+   + Phương thức: Nhập, Xuất, tính giá bán
+Hàng thực phẩm <mã hàng, tên hàng, nhà sản xuất, giá, ngày sản xuất, hạn dùng (số ngày), ngày hết hạn dùng = ngày sản xuất + hạn dùng >
+   Phương thức: Nhập, Xuất, tính giá bán, in ra ngày hết hạn
+
+Trong đó, hàm tính giá bán được tính như sau:
+- Nếu là hàng thực phẩm: giá bán = giá
+- Nếu là hàng sành sứ: Giá bán = giá + 5%
+- Nếu là hàng điện máy: GIá bán= giá + 10%
+-----------------------------------------------
+Sinh viên nộp 5 file sau (không nén file):
+- HangHoa.java
+- HangSS.java
+- HangDienMay.java
+- HangThucPham.java
+- Main.java
+
+bai tap:
+Sinh viên làm bài trắc nghiệm trong vòng 60p
+https://forms.gle/bFJ1Mf8n9Hki5bQk8
+
+bai tap:
+Nhập
+danh sách
+Xuất danh sách
+Sắp
+xếp danh sách giảm dần theo điểm trung bình của học sinh
+Viết
+lớp Demo3 chứa phương thức main():
+
+Tạo
+một đối tượng danh sách học sinh
+Nhập
+thông tin cho danh sách học sinh
+In
+danh sách học sinh đã được sắp thứ tự.
+Viết
+lớp Demo4 chứa phương thức main():
+Tạo
+một danh sách đối tượng học sinh
+Nhập
+thông tin cho danh sách học sinh
+In danh sách học sinh
+
